@@ -18,6 +18,5 @@ plt.scatter(x, y)
 plt.xlabel('ms')
 plt.ylabel('location')
 
-plt.show()
-
 plt.savefig('img/activity.png')
+plt.show()
