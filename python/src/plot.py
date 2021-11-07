@@ -19,3 +19,5 @@ plt.xlabel('ms')
 plt.ylabel('location')
 
 plt.show()
+
+plt.savefig('img/activity.png')
